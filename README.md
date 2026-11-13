@@ -1,8 +1,8 @@
-# ============ Gestion des taches =============  
+# ==== Gestion des taches ===
 # projet fil rouge du module Outils collaboratifs avec Git/GitHub(licence big data et analyse des donnees,S1)
 # =====Presentation=====:
 **Nom du TP:DS**
-# ====================================================================
+# ==============================
 Application Python en console qui permet de gerer une liste de taches.Elle propose un menu simple avec les fonctionnalites suivantes:
    . Ajouter une tache
    . Afficher toutes les taches
