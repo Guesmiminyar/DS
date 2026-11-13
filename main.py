@@ -1,3 +1,4 @@
+print("Bienvenue dans le programme de gestion des ventes")
 ventes = []
 prochain_id = 1
 
